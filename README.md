@@ -106,7 +106,7 @@ Once your template is ready, **do not forget to propose it to the community via 
 ### Kali Linux / Arch Linux / Ubuntu / Fedora / Parrot OS / Termux
 
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
+git clone --depth 32 https://github.com/Zero556723/seeker
 cd seeker/
 chmod +x install.sh
 ./install.sh
